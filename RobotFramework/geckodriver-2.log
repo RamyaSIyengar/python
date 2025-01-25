@@ -1,0 +1,19 @@
+1728635394477	geckodriver	INFO	Listening on 127.0.0.1:60669
+1728635397572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\soundarr\\AppData\\Local\\Temp\\rust_mozprofile8IHZwN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1728635398188	Marionette	INFO	Marionette enabled
+1728635398498	Marionette	INFO	Listening on port 60677
+WebDriver BiDi listening on ws://127.0.0.1:60670
+Read port: 60677
+1728635398843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60670/devtools/browser/988a4001-cad0-49f1-ad40-61865cab342c
+JavaScript warning: https://www.gstatic.com/og/_/js/k=og.qtm.en_US.6T6r_9V_Ciw.2019.O/rt=j/m=qabr,q_d,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTuWzR02q-lADuEe1tzdVix-MATZjg, line 16: Script terminated by timeout at:
+_.df@https://www.gstatic.com/og/_/js/k=og.qtm.en_US.6T6r_9V_Ciw.2019.O/rt=j/m=qabr,q_d,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTuWzR02q-lADuEe1tzdVix-MATZjg:16:328
+_.ef@https://www.gstatic.com/og/_/js/k=og.qtm.en_US.6T6r_9V_Ciw.2019.O/rt=j/m=qabr,q_d,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTuWzR02q-lADuEe1tzdVix-MATZjg:17:25
+zf@https://www.gstatic.com/og/_/js/k=og.qtm.en_US.6T6r_9V_Ciw.2019.O/rt=j/m=qabr,q_d,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTuWzR02q-lADuEe1tzdVix-MATZjg:26:38
+b@https://www.gstatic.com/og/_/js/k=og.qtm.en_US.6T6r_9V_Ciw.2019.O/rt=j/m=qabr,q_d,qcwid,qapid,qald,qads,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTuWzR02q-lADuEe1tzdVix-MATZjg:23:467
+
+1728636091733	Marionette	INFO	Stopped listening on port 60677
+Dynamically enable window occlusion 1
